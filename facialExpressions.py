@@ -1,6 +1,7 @@
 # import the required modules 
 import cv2 
 import matplotlib.pyplot as plt 
+# DeepFace requires tensorflow to be installed
 from deepface import DeepFace 
   
 # read image 
